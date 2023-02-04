@@ -1,0 +1,61 @@
+.header {
+  background: #03a9f4;
+  padding: 15px 20px;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
+.radio-station {
+  background: #ddd;
+  padding: 10px;
+  margin: 15px 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.radio-name {
+  font-size: 15px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.radio-name-list {
+  font-size: 8px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.null .radio-image .radio-station img {
+  width: 200px;
+  height: 200px;
+}
+
+.player {
+  position: relative;
+}
+
+.en-top {
+  height: 100%;
+}
+
+.top {
+  height: calc(100% - 132px);
+  overflow: auto;
+}
+
+.radio-name {
+  position: flex;
+}
