@@ -28,7 +28,7 @@ export const DATA = [
   {
     id: 5,
     name: "Kral Pop",
-    url: "http://kralpopwmp.radyotvonline.com/",
+    url: "http://46.20.3.201/",
     image:
       "https://upload.wikimedia.org/wikipedia/tr/thumb/9/9f/Kral_Pop_logosu.png/836px-Kral_Pop_logosu.png",
   },
