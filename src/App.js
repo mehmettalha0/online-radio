@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="top">
-        <div className="header">Team Turkey - Online Radio</div>
+        <div className="header">Mehmet Talha - Online Radio</div>
         <div className="App">
           {DATA.map((item) => {
             return (
