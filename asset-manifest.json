@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/online-radio/static/css/main.8d681752.css",
-    "main.js": "/online-radio/static/js/main.47dc42c2.js",
+    "main.js": "/online-radio/static/js/main.defcb136.js",
     "static/media/superfm.png": "/online-radio/static/media/superfm.abb1282fca62f010aa19.png",
     "index.html": "/online-radio/index.html",
     "main.8d681752.css.map": "/online-radio/static/css/main.8d681752.css.map",
-    "main.47dc42c2.js.map": "/online-radio/static/js/main.47dc42c2.js.map"
+    "main.defcb136.js.map": "/online-radio/static/js/main.defcb136.js.map"
   },
   "entrypoints": [
     "static/css/main.8d681752.css",
-    "static/js/main.47dc42c2.js"
+    "static/js/main.defcb136.js"
   ]
 }
